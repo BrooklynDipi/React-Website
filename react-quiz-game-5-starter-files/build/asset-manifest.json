@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e61985c3.chunk.css",
+    "main.js": "/static/js/main.c337db79.chunk.js",
+    "main.js.map": "/static/js/main.c337db79.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cee87b16.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cee87b16.js.map",
+    "static/js/2.48def990.chunk.js": "/static/js/2.48def990.chunk.js",
+    "static/js/2.48def990.chunk.js.map": "/static/js/2.48def990.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e61985c3.chunk.css.map": "/static/css/main.e61985c3.chunk.css.map",
+    "static/js/2.48def990.chunk.js.LICENSE.txt": "/static/js/2.48def990.chunk.js.LICENSE.txt",
+    "static/media/beeple-potus-3012.0711231c.gif": "/static/media/beeple-potus-3012.0711231c.gif",
+    "static/media/index.css": "/static/media/memphis-colorful-dim.a1c8ddcc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cee87b16.js",
+    "static/js/2.48def990.chunk.js",
+    "static/css/main.e61985c3.chunk.css",
+    "static/js/main.c337db79.chunk.js"
+  ]
+}

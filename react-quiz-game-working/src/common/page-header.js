@@ -1,0 +1,18 @@
+import { Link } from "react-router-dom";
+import "./page-header.css";
+
+function PageHeader() {
+    return(
+    <header className="page-header">
+        <nav className="page-header__nav">
+
+        <Link to="/">Home</Link> | <Link to="/quiz">Quiz</Link> | <Link to="/about">About</Link> | <Link to="/demos">Demos</Link>
+
+        </nav>
+    </header>
+
+
+    );
+}
+
+export default PageHeader;
