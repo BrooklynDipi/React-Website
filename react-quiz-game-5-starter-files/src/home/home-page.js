@@ -1,4 +1,5 @@
 function HomePage() {
+
   return (
     <main>
       <h1>Home Page 🏠</h1>
@@ -6,6 +7,9 @@ function HomePage() {
       <p>This website is dedicated to my extreme love of panda bears. 🐼🐼🐼</p>
       <p>I wish I owned a panda bear!</p>
     </main>
+
+    
+
   );
 }
 
